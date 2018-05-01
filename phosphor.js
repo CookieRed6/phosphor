@@ -8,7 +8,7 @@ const abs = Math.abs, floor = Math.floor;
 // https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/8860571/
 const edgeKeyFix = {
   Down: 'ArrowDown',
-  Esc: 'Escape',
+  Tab: 'Tab',
   Left: 'ArrowLeft',
   Right: 'ArrowRight',
   Up: 'ArrowUp',
